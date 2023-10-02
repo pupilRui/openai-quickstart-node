@@ -1,0 +1,6 @@
+# Ignore everything in venv directory
+venv/*
+
+# But don't ignore the directory itself
+!venv/.gitkeep
+
